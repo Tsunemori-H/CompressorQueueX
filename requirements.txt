@@ -4,3 +4,6 @@ psutil
 tgcrypto
 https://github.com/New-dev0/Telethon/archive/diamond.zip
 git+https://github.com/kaif-00z/html-telegraph-poster
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.2
